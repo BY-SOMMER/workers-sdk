@@ -14,14 +14,14 @@
 		"test:e2e": "vitest run --test-timeout 30000"
 	},
 	"dependencies": {
-		"hono": "^4.7.0",
+		"hono": "^4.12.4",
 		"zod": "^3.22.3"
 	},
 	"devDependencies": {
 		"@cloudflare/eslint-config-shared": "workspace:*",
 		"@cloudflare/workers-types": "catalog:default",
 		"@types/cookie": "^0.6.0",
-		"cookie": "^0.7.2",
+		"cookie": "^0.7.0",
 		"eslint": "catalog:default",
 		"itty-router": "^4.0.13",
 		"promjs": "^0.4.2",
