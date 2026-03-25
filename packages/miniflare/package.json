@@ -83,7 +83,7 @@
 		"capnweb": "^0.1.0",
 		"chokidar": "^4.0.1",
 		"concurrently": "^8.2.2",
-		"devalue": "^5.3.2",
+		"devalue": "^5.6.4",
 		"devtools-protocol": "^0.0.1182435",
 		"esbuild": "catalog:default",
 		"eslint": "catalog:default",
